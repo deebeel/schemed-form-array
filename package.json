@@ -16,6 +16,7 @@
   "dependencies": {
     "@angular/common": "^2.2.4",
     "@angular/core": "^2.2.4",
-    "@angular/forms": "^2.2.4"
-  }
+    "@angular/forms": "^2.2.4"    
+  },
+  "readme": "readme.md"
 }
