@@ -1,0 +1,21 @@
+{
+  "name": "schemed-form-array",
+  "version": "0.1.0",
+  "description": "Angular2 reactive schemed form array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular2",
+    "FormArray",
+    "scheme"
+  ],
+  "author": "deebeel",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/common": "^2.2.4",
+    "@angular/core": "^2.2.4",
+    "@angular/forms": "^2.2.4"
+  }
+}
